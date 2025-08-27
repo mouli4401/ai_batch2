@@ -1,0 +1,10 @@
+# Machine Learning Overview
+
+Machine Learning (ML) is a branch of artificial intelligence that enables systems 
+to learn from data and improve performance without being explicitly programmed. 
+
+Common ML algorithms include:
+- Linear Regression
+- Decision Trees
+- Neural Networks
+- Support Vector Machines

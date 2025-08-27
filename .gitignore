@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+ienv/
+
+# Credentials
+service_account.json
+
+# Environment
+.env
+
+# Ignore FAISS index files
+*.faiss
+*.bin
+*.index
+*.pkl
+
